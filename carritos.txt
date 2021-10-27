@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "timestamp": "",
+    "productos": [
+      {
+        "nombre": "Calculadora",
+        "precio": 234.56,
+        "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+        "id": 2,
+        "timestamp": "",
+        "descripcion": "",
+        "codigo": "",
+        "stock": ""
+      }
+    ]
+  },
+  {
+    "productos": [
+      {
+        "nombre": "LAPIZ NEGRO",
+        "precio": 234.56,
+        "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+        "descripcion": "",
+        "codigo": "",
+        "stock": "",
+        "id": 1,
+        "timestamp": 1632512888307
+      },
+      {
+        "nombre": "TIJERA",
+        "precio": 2234.56,
+        "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/tv.png",
+        "descripcion": "SONY 4K - Televisor Ultra High Definition",
+        "codigo": "CALC678",
+        "stock": 12,
+        "id": 4,
+        "timestamp": 1635340034296
+      }
+    ],
+    "id": "2",
+    "timestamp": 1635340135520
+  },
+  {
+    "productos": [],
+    "id": "3",
+    "timestamp": 1635340092191
+  }
+]
